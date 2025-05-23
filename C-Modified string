@@ -22,9 +22,9 @@ char str[1000];
   }
  
   replaceVowels(str);
-  printf("Modiefd string: %s\n", str);
+  printf("Modified string: %s\n", str);
   return 0;
 }
  output:
   Enter a string: kanishka
-  Modiefd string: k*n*shk*
+  Modified string: k*n*shk*
