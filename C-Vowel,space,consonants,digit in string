@@ -20,3 +20,9 @@ int main()
 
     return 0;
 }
+ output:
+   csa1 it2 vet3
+vowel=3
+space=2
+consonants=8
+digit=0
